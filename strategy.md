@@ -5,7 +5,7 @@ Based on [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-t
 1. **Identify** - Ability to recognize the elements (fundamentals) of the discipline.
 2. **Hack** - Understand cause and effect. Tweak components to change behavior by adding, removing, and replacing elements.
 3. **Synthesis** - Put elements together to create new components.
-4. **Create** - Create new elements. Build new theories of understanding.
+4. **Create** - Create new elements. Develop new theories of understanding.
 
 ## Programming
 1. **Identify** - Learn about values, variables, conditional statements, loops, functions, and procedures. Be able to identify them in a program.

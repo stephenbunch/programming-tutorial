@@ -74,4 +74,7 @@ People often talk about [programming languages](https://en.wikipedia.org/wiki/Pr
 5. Programmers often invent new words to describe new ways of doing things and use these words in their in code. True or False?
 6. Humans use code to tell computers what to do. True or False?
 
+
+*You can use the scrollbar to hide the answers.*
+
 Answers: T, F, T, T, T, T

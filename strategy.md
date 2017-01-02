@@ -1,5 +1,8 @@
 # Strategy
 
+Based on [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).
+
+
 1. **Identify** - Ability to recognize the elements (fundamentals) of the discipline.
 2. **Hack** - Understand cause and effect. Tweak components to change behavior by adding, removing, and replacing elements.
 3. **Synthesis** - Put elements together to create new components.

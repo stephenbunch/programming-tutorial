@@ -1,15 +1,16 @@
 # Programming Tutorial
-Hello! Welcome to my programming tutorial. There's a lot of content here, so get a cup of coffee and absorb this tutorial at your own pace.
+Welcome to my programming tutorial. There's a lot of material here, so get a cup of coffee and absorb this tutorial at your own pace.
 
 I use "levels" instead of chapters to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
 
-At the end of each section, I include some questions and/or sample coding problems to verify that you understood the section correctly. **You must do these.**
+At the end of each section, I include some questions and/or sample coding problems to verify that you understood the section correctly. **You must do these.** It's the only way to know that you're on the right track.
 
 Also:
-* Try to do one level each week and spread it out over the entire week so that you have more time to absorb everything. Your mind needs time to understand and incorprate ideas you've never seen before. I usually have to sleep on a new concept before I fully understand it.
-* Don't take too many breaks, otherwise you'll forget things and it'll be difficult to keep going.
+* Try to finish one level each week and spread things out so your mind has time to process. I usually have to sleep on a new concept before I'm able to wrap my head around it.
+* Don't take too many breaks. You'll forget things and it'll be difficult to keep going.
+* It's just like learning an instrument. [Practice makes perfect.](http://lifehacker.com/5939374/a-better-way-to-practice)
 * Be resourceful. Search for YouTube videos if you have to. I've discovered that it's easier for me to learn a new concept if I can find a video tutorial that explains it.
-* Be curious. The best programmers are very curious about **how and why things work**, not simply that something works.
+* Be curious. The best programmers are super curious about **how and why things work**.
 
 
 ## Table of Contents

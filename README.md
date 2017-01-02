@@ -7,8 +7,8 @@ Hello! Welcome to my programming tutorial. There's a lot of stuff here, so get a
 
 
 ## Table of Contents
-* Level 1
-  * What is code?
+* [Level 1](level-1)
+  * [What is code?](#what-is-code)
   * Values
   * Variables
 * Level 2

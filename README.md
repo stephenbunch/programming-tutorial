@@ -1,5 +1,7 @@
 # Programming Tutorial
-Welcome to my programming tutorial. There's a lot of material here, so get a cup of coffee and absorb this tutorial at your own pace.
+Welcome to my programming tutorial. My goal is to teach you **how to think**, not what to think.
+
+There's a lot of material here, so get a cup of coffee and absorb this tutorial at your own pace.
 
 I use "levels" instead of chapters to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
 
@@ -55,15 +57,21 @@ var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
 Let me highlight some interesting characteristics that are unique to code:
 
 * code is written in English, [generally](http://softwareengineering.stackexchange.com/questions/1483/do-people-in-non-english-speaking-countries-code-in-english)
-* code is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting))
+* code is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)) to indicate special words or characters
 * code invents new words that don't exist in the English vocabulary (it's like making memes)
 * code is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
 
 When you look at code, don't think of it as a series of computer commands. Think of it as a way to communicate a process for getting something done. Computers are all about getting things done, and writing code is how humans can tell computers what to do.
 
+People often talk about [programming languages](https://en.wikipedia.org/wiki/Programming_language). If you don't know what they are, don't worry. I'll touch on them later. For now, I just want to focus on the fundamentals of programming.
+
 
 #### Learning Verification
 1. Code is written in English. True or False?
-2. 
+2. Writing code is like typing an equation into a calculator. True or False?
+3. Syntax highlighting is a way to make special words and characters stand out. It's similar to the way red and green colors are often used to indicate postive and negative numbers. True or False?
+4. Code can be difficult to read, but that's because some processes are difficult to communicate. True or False?
+5. Programmers often invent new words to describe new ways of doing things and use them in code. True or False?
+6. Humans can use code to tell computers to do things. True or False?
 
-Answers: T, 
+Answers: T, F, T, T, T, T

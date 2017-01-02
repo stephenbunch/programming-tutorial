@@ -19,4 +19,4 @@
 ## History
 1. **Identify** - Learn about the different time periods and key events.
 2. **Hack** - Learn how one time period led to the next. Tweak key events in the past to change the present.
-3. **Synthesis** - Use past and current events to predict the future.
+3. **Synthesis** - Use past and current events to imagine the future.

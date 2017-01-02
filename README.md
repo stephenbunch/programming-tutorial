@@ -63,7 +63,7 @@ Let me highlight some interesting characteristics that are unique to code:
 
 When you look at code, don't think of it as a series of computer commands. Think of it as a way to communicate a process for getting something done. Computers are all about getting things done, and writing code is how humans can tell computers what to do.
 
-People often talk about [programming languages](https://en.wikipedia.org/wiki/Programming_language). If you don't know what they are, don't worry. I'll touch on them later. For now, I just want to focus on the fundamentals of programming.
+People often talk about [programming languages](https://en.wikipedia.org/wiki/Programming_language). If you don't know what they are, don't worry. I'll explain them later. For now, I just want to focus on the fundamentals of programming.
 
 
 #### Learning Verification

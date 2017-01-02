@@ -46,7 +46,7 @@ var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
 In other words, code:
 * is written in English, [generally](http://softwareengineering.stackexchange.com/questions/1483/do-people-in-non-english-speaking-countries-code-in-english)
 * is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting))
-* invents new words *all the time* that don't exist in the English vocabulary
+* invents new words that don't exist in the English vocabulary
 * is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
 
 When you look at code, don't think of it as a series of computer commands. Think of it as a way to communicate a process for getting something done. Computers are all about getting things done, and writing code is how humans can tell computers what to do.

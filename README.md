@@ -6,7 +6,7 @@ I use "levels" instead of chapters or sections to emphasize order. Concepts buil
 Also:
 * Try to do one level each week and spread it out over the whole week so that you have more time to absorb everything. Your mind needs time to understand and incorprate ideas you've never seen before. I usually have to sleep on a new concept before I fully understand it.
 * Don't take too many breaks, otherwise you'll forget stuff and it'll be difficult to keep going.
-* Click on the links! Search for youtube videos if you have to. I've found that I learn new concepts much easier if I can find a video tutorial that explains it.
+* Be curious. Search for youtube videos if you have to. I've found that I learn new concepts much easier if I can find a video tutorial that explains it.
 
 
 ## Table of Contents
@@ -29,6 +29,8 @@ Also:
 When people talk about [code](https://en.wikipedia.org/wiki/Source_code), imagine a bunch of random words and characters in a [text file](https://en.wikipedia.org/wiki/Text_file).
 
 It's not actually random, but this is what it looks like:
+
+*Psst... Don't spend any time trying to understand this. Just look at it like you would look at a piece of modern art. :)*
 ```js
 var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
     return regeneratorRuntime.wrap(function _callee$(_context) {
@@ -46,10 +48,11 @@ var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
   }));
 ```
 
-In other words, code:
-* is written in English, [generally](http://softwareengineering.stackexchange.com/questions/1483/do-people-in-non-english-speaking-countries-code-in-english)
-* is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting))
-* invents new words that don't exist in the English vocabulary
-* is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
+Let me highlight some interesting characteristics that are unique to code:
+
+* code is written in English, [generally](http://softwareengineering.stackexchange.com/questions/1483/do-people-in-non-english-speaking-countries-code-in-english)
+* code is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting))
+* code invents new words that don't exist in the English vocabulary (it's like making memes)
+* code is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
 
 When you look at code, don't think of it as a series of computer commands. Think of it as a way to communicate a process for getting something done. Computers are all about getting things done, and writing code is how humans can tell computers what to do.

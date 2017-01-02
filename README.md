@@ -69,7 +69,7 @@ People often talk about [programming languages](https://en.wikipedia.org/wiki/Pr
 #### Learning Verification
 1. Code is written in English. True or False?
 2. Writing code is like typing an equation into a calculator. True or False?
-3. Syntax highlighting is a way to make special words and characters stand out. It's similar to the way red and green colors are often used to indicate postive and negative numbers. True or False?
+3. Syntax highlighting is a way to make special words and characters stand out. It's similar to the way red and green color is often used to highlight postive and negative numbers. True or False?
 4. Code can be difficult to read, but that's because some processes are difficult to communicate. True or False?
 5. Programmers often invent new words to describe new ways of doing things and use them in code. True or False?
 6. Humans can use code to tell computers to do things. True or False?

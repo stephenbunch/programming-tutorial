@@ -3,6 +3,7 @@ Hello! Welcome to my programming tutorial. There's a lot of stuff here, so get a
 
 I use "levels" instead of chapters or sections to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
 
+Also:
 * Try to do one level each week and spread it out over the whole week so that you have more time to absorb everything. Your mind needs time to understand and incorprate ideas you've never seen before. I usually have to sleep on a new concept before I fully understand it.
 * Don't take too many breaks, otherwise you'll forget stuff and it'll be difficult to keep going.
 * Click on the links! Search for youtube videos if you have to. I've found that I learn new concepts much easier if I can find a video tutorial that explains it.

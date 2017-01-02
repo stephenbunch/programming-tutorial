@@ -57,7 +57,7 @@ var _ref = _asyncToGenerator(regeneratorRuntime.mark(function _callee() {
 Let me highlight some interesting characteristics about code:
 
 * code is written in English, [generally](http://softwareengineering.stackexchange.com/questions/1483/do-people-in-non-english-speaking-countries-code-in-english)
-* code is often displayed with colors (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)) to indicate special words or characters
+* code is often displayed with color (called [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting)) to indicate special words or characters
 * code invents new words that don't exist in the English vocabulary (it's like making memes)
 * code is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
 

@@ -10,7 +10,7 @@ Also:
 
 
 ## Table of Contents
-* [Level 1](level-1)
+* [Level 1](#level-1)
   * [What is code?](#what-is-code)
   * Values
   * Variables

@@ -1,5 +1,5 @@
 # Programming Tutorial
-Hello! Welcome to my programming tutorial. There's a lot of stuff here, so get a cup of coffee and absorb it at your own pace.
+Hello! Welcome to my programming tutorial. There's a lot of stuff here, so get a cup of coffee and absorb this tutorial at your own pace.
 
 I use "levels" instead of chapters or sections to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
 

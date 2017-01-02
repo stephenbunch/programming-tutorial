@@ -1,12 +1,15 @@
 # Programming Tutorial
-Hello! Welcome to my programming tutorial. There's a lot of stuff here, so get a cup of coffee and absorb this tutorial at your own pace.
+Hello! Welcome to my programming tutorial. There's a lot of content here, so get a cup of coffee and absorb this tutorial at your own pace.
 
-I use "levels" instead of chapters or sections to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
+I use "levels" instead of chapters to emphasize order. Concepts build on each other, so it's important that you don't jump around too much.
+
+At the end of each section, I include some questions and/or sample coding problems to verify that you understood the section correctly. **You must do these.**
 
 Also:
-* Try to do one level each week and spread it out over the whole week so that you have more time to absorb everything. Your mind needs time to understand and incorprate ideas you've never seen before. I usually have to sleep on a new concept before I fully understand it.
-* Don't take too many breaks, otherwise you'll forget stuff and it'll be difficult to keep going.
-* Be curious. Search for youtube videos if you have to. I've found that I learn new concepts much easier if I can find a video tutorial that explains it.
+* Try to do one level each week and spread it out over the entire week so that you have more time to absorb everything. Your mind needs time to understand and incorprate ideas you've never seen before. I usually have to sleep on a new concept before I fully understand it.
+* Don't take too many breaks, otherwise you'll forget things and it'll be difficult to keep going.
+* Be resourceful. Search for YouTube videos if you have to. I've discovered that it's easier for me to learn a new concept if I can find a video tutorial that explains it.
+* Be curious. The best programmers are very curious about **how and why things work**, not simply that something works.
 
 
 ## Table of Contents
@@ -56,3 +59,10 @@ Let me highlight some interesting characteristics that are unique to code:
 * code is often [cryptic and ugly](https://blog.codinghorror.com/code-isnt-beautiful/)
 
 When you look at code, don't think of it as a series of computer commands. Think of it as a way to communicate a process for getting something done. Computers are all about getting things done, and writing code is how humans can tell computers what to do.
+
+
+#### Learning Verification
+1. Code is written in English. True or False?
+2. 
+
+Answers: T, 
